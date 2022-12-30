@@ -37,3 +37,6 @@
 [submodule "plugins/completion/external/zsh-completions"]
 	path = plugins/completion/external/zsh-completions
 	url = https://github.com/zsh-users/zsh-completions
+[submodule "plugins/zsh-fzf-history-search"]
+	path = plugins/zsh-fzf-history-search
+	url = https://github.com/joshskidmore/zsh-fzf-history-search
